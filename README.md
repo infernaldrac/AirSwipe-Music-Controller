@@ -1,7 +1,7 @@
 # 🎵 Gesture-Controlled Local Music Player
 
 Control your **local music playback using hand gestures** — powered by **OpenCV**, **MediaPipe**, and **pygame**.  
-Built with love and code by [@tubakhxn](https://github.com/tubakhxn) 💻🎧
+Built with love and code by(https://github.com/inferaldrac) 💻🎧
 
 ---
 
